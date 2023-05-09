@@ -1,0 +1,3 @@
+/Users/snehachhipa/Documents/SoftwareEngineeringAssignment2/GanttChart/cmake-build-debug/CMakeFiles/GanttChart.dir
+/Users/snehachhipa/Documents/SoftwareEngineeringAssignment2/GanttChart/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/snehachhipa/Documents/SoftwareEngineeringAssignment2/GanttChart/cmake-build-debug/CMakeFiles/rebuild_cache.dir
